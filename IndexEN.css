@@ -88,14 +88,14 @@
 }
 
 .u-section-2 .u-btn-1 {
-  margin: 11px auto 0 0;
-  padding: 10px 92px;
+  margin: 11px auto 0;
+  padding: 10px 82px 10px 81px;
 }
 
 .u-section-2 .u-image-1 {
   min-height: 460px;
   background-image: url("images/image1.png");
-  background-position: 50% 50%;
+  background-position: 50% 64.26%;
 }
 
 .u-section-2 .u-container-layout-2 {

@@ -95,6 +95,7 @@
 .u-section-2 .u-image-1 {
   min-height: 460px;
   background-image: url("images/image1.png");
+  background-position: 0% 50%;
 }
 
 .u-section-2 .u-container-layout-2 {
